@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D6B4A1D426A419F0006405D6 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B4A1D326A419F0006405D6 /* Capital.swift */; };
+		D6B4A1D726A42EF9006405D6 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6B4A1D626A42EF9006405D6 /* DetailsViewController.swift */; };
 		D6BA285226A354750066903D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6BA285126A354750066903D /* AppDelegate.swift */; };
 		D6BA285426A354750066903D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6BA285326A354750066903D /* SceneDelegate.swift */; };
 		D6BA285626A354750066903D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6BA285526A354750066903D /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		D6B4A1D326A419F0006405D6 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		D6B4A1D626A42EF9006405D6 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		D6BA284E26A354750066903D /* CapitalCities.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CapitalCities.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6BA285126A354750066903D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6BA285326A354750066903D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				D6BA285326A354750066903D /* SceneDelegate.swift */,
 				D6BA285526A354750066903D /* ViewController.swift */,
 				D6B4A1D326A419F0006405D6 /* Capital.swift */,
+				D6B4A1D626A42EF9006405D6 /* DetailsViewController.swift */,
 				D6BA285726A354750066903D /* Main.storyboard */,
 				D6BA285A26A354760066903D /* Assets.xcassets */,
 				D6BA285C26A354760066903D /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				D6BA285226A354750066903D /* AppDelegate.swift in Sources */,
 				D6B4A1D426A419F0006405D6 /* Capital.swift in Sources */,
 				D6BA285426A354750066903D /* SceneDelegate.swift in Sources */,
+				D6B4A1D726A42EF9006405D6 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

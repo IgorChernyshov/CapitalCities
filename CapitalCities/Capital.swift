@@ -12,13 +12,13 @@ final class Capital: NSObject, MKAnnotation {
 
 	// MARK: - Properties
 	private(set) var title: String?
-	private(set) var info: String
+	private(set) var subtitle: String?
 	private(set) var coordinate: CLLocationCoordinate2D
 
 	// MARK: - Initializer
-	init(title: String, info: String, coordinate: CLLocationCoordinate2D) {
+	init(title: String, subtitle: String, coordinate: CLLocationCoordinate2D) {
 		self.title = title
-		self.info = info
+		self.subtitle = subtitle
 		self.coordinate = coordinate
 	}
 }
